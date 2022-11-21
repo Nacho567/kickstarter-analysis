@@ -12,11 +12,11 @@ I performed my analysis by creating two sheets from the main Kickstarter data. T
 
 ### **Analysis of Outcomes Based on Launch Date**
 
-https://github.com/Nacho567/kickstarter-analysis/blob/b268b3065083eb400a778a851066ed5cf1d83d44/Theater_Outcomes_vs_Launch.png.png
+![Theater Outcomes vs Launch Line Graph](https://github.com/Nacho567/kickstarter-analysis/blob/b268b3065083eb400a778a851066ed5cf1d83d44/Theater_Outcomes_vs_Launch.png.png)
 
 ### **Analysis of Outcomes Based on Goals**
 
-https://github.com/Nacho567/kickstarter-analysis/blob/b268b3065083eb400a778a851066ed5cf1d83d44/Outcomes_vs_Goals.png
+![Outcomes vs Goals Line Graph](https://github.com/Nacho567/kickstarter-analysis/blob/b268b3065083eb400a778a851066ed5cf1d83d44/Outcomes_vs_Goals.png)
 
 ### **Challenges and Difficulties Encountered**
 
